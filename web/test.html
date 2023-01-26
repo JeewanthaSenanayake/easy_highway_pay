@@ -1,0 +1,49 @@
+//get base place
+getDoc(doc(db, 'BasePlace', 'BasePlace')).then(docSnap => {
+  if(docSnap.exists()) {
+    var nameB = docSnap.data()['name'];
+    document.getElementById("bname").value =nameB;
+    document.getElementById("baseButton").innerHTML="";
+
+    var discription = "<br><center>Pleace consider base place as ";
+    discription = discription + nameB;
+    discription = discription + " and the set the distance from hare</center>";
+    document.getElementById("entranceDriscrip").innerHTML=discription;
+
+  //creat entance button
+    let Entancebtn = document.createElement("button");
+    Entancebtn.innerHTML = "Submit";
+    Entancebtn.addEventListener("click", function () {
+      alert("Button is clicked");
+    });
+    document.getElementById("entanceButton").appendChild(Entancebtn);
+
+  }else{
+    document.getElementById("entranceDriscrip").innerHTML="<br><center>Pleace create base place first</center>";
+  }
+});
+
+
+Jeewantha
+
+
+
+
+
+
+
+
+//add base point
+    base.addEventListener('click', (e)=>{
+
+      const BasePlace = document.getElementById("bname").value;
+
+       setDoc(doc(db, "BasePlace", "BasePlace"), {
+          name: BasePlace,
+        });
+
+        //document.getElementById("bname").value = BasePlace;
+        //document.getElementById("baseButton").innerHTML="";
+        alert("BasePlace Added");   
+        
+  });
