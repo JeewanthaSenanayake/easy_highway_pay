@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "easyhighwaypay",
+  "private_key_id": "c3d14144b84915210d9a20e96f51833826709cbf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCrhBd6WoNI2tZ\n7J9xE+O4eBo6kY0Jnz3TL/Wj82bOwcFaX0nyInG2enyyjIDZPlno014lQZw7O3kC\nPatxPMpiXYZMMrNj4Yho23gmG2FHTtzo9dWn6prhFXxswxz0F9dRU7OprHUaOaZu\nIFc7RmxNpHdrQh2k05Ngl7XgvboaYlRk8WW2TSjIqjGWHtQuADxCeeccVCifyllO\nhfIhA3q+rXTUW9+g4fUvZnKFiHD3UTh6EG2HDoz4nyjgqU9Oac9tSDVbFGODRyp7\n6TwK8wdqkN7EPffAiCSDbrUT3M5AuZlc8K1XBhIKUiFODg1QPnZV9fc6en6a+0ST\nNFF7I0/zAgMBAAECggEAAyyzRjmSFqb1gn2W0Te86c55LJ8gZYzfHuxnY4yKqFcS\nUAB0yr0gDWGfwSOeAeAZhDy9Vy5j0OpBdc7+o2j73eQriZH1r4Ytr/pza5+pRvBO\nYhtVwbHtyggMXUbgC0tZbtFgGr8d5VcVhswCA1mJifyWfyPDxJY32+ytaEqy8bVe\n1PBiULxUxqMBZuHIFVG5loKD3aeZnXXUuzM1h1e62JPcnDxgjGUqedhbreHJEGkX\nvOrMTpMlE3nNA1dlB9sYBxrOx7zY+JIy8GSCw6QxsH99OcHaBbo/W7dfbRKguMU+\nV3UYvck/KXlMctHPm6Fve7x8+cYVwVC0jN3swEnVSQKBgQD/lspWHXz2maFdJP/m\nUwNs7OkXYPSZpWwCqxK2HC+GvfJJGFvmXEcV+XUuie0jgc3lm4/I/E2b/MI7VyUB\nqocSyttxrHdHt85tozQ+zIz+BNvgNVJVjnPneIoy4aRTDuro+YjjhVaRaCv+2ras\nQLp7NTd2vXnZATbslb+8R0m8uQKBgQDC/jOBEFu0DEHbGqxvi0P5/RPfGAltC1Ew\nhQrbyClaYcSvATT9CRMzk0KoFBKPaANZGEuyqFlNfZTN1eGi1WrZbYyUUEA8S9/D\nStBCdZNNkr8MriNtmM1uzevgWYpuKe9JuEQ3ag/b92NPAFKCg82vZBxN4cOOb872\nt9meLqfUCwKBgQCkL8XDFCZWc9KI91+8Ic+thXMnJY17thxwilz2x5xwPk0KT6+Z\nh+XSY/G297tyd8xAl3ICdrGUZwaPACgxrc4fcFkP6O6nD5h4LcM+JEDeXVix6w79\nDwm9xF1i2jipcofNKZ+aKOm3dufsS6vVc69XvpPmn0lK8dDKolgNJu5jYQKBgC7B\ny9Hf/U1gPw5uB/k7WNKCKBiv59q5Av/ydxcamSfuF76rOGyQl4Ufg7VQEt9GXr8n\nf0dY7QkS2vK8nb1xFY0LotERqUWMIBzxPJ0jGm5YiO1eeGpYYLJ4OF50uigOcC2q\nPNlY2nKxkKOp/R8EwfaTt+HJCB6ImwU4MrumjmHfAoGAFf20N8cs0I38YFZwLPSR\nPrI6xx6oEz6z6bqGAYvQ5fPzlz0koajPc/TIw7tVEeoZXwX+NfbKs3VD1Lr+H/N6\nVkbNsMKVeYxS7cYTp++htrhHtd9rMCYQVW2kImmNBiTp7OXV5kfj5bfBSlaCEhZp\n2B7mTNwfHqm2C7rgXgMyKaI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-gx69w@easyhighwaypay.iam.gserviceaccount.com",
+  "client_id": "106727050303629160445",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gx69w%40easyhighwaypay.iam.gserviceaccount.com"
+}
